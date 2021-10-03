@@ -7,7 +7,7 @@ I am a Year 2 Computer Science student studying at the National University of Si
 ### Github Stats 📊
 
 
-[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolej2122&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolej2122&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
