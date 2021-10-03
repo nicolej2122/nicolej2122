@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Nicole! 👋
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" title="LinkedIn" />](https://www.linkedin.com/in/nicolejoseph2122/) 
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="25" title="Email" />](mailto:nicole.joseph2122@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolej2122)](https://github.com/anuraghazra/github-readme-stats)
+I am a Year 2 Computer Science student studying in National University of Singapore (NUS). 
+
+### Github Stats 📊
+
+
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolej2122&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
