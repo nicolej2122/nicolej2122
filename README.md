@@ -9,7 +9,7 @@ I am a Year 2 Computer Science student studying at the National University of Si
 
 [![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolej2122&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolej2122&layout=compact&theme=dracula&langs_count=8&count_private=true&title_color=9e609e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
