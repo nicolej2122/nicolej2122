@@ -2,7 +2,7 @@
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" title="LinkedIn" />](https://www.linkedin.com/in/nicolejoseph2122/) 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="25" title="Email" />](mailto:nicole.joseph2122@gmail.com)
 
-I am a Year 2 Computer Science student studying in National University of Singapore (NUS). 
+I am a Year 2 Computer Science student studying at the National University of Singapore (NUS). 
 
 ### Github Stats 📊
 
