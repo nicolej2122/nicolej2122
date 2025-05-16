@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/nicolej2122?label=Follow&style=social)](https://github.com/nicolej2122)
 ![](https://visitor-badge.laobi.icu/badge?page_id=nicolej2122.nicolej2122) 
 
-I am a Year 3 Computer Science student studying at the National University of Singapore (NUS). 
+Software Engineer @ Dell | NUS CS grad | Backend enthusiast who loves building with Go
 
 
 
