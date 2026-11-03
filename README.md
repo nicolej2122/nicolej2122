@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/nicolej2122?label=Follow&style=social)](https://github.com/nicolej2122)
 ![](https://visitor-badge.laobi.icu/badge?page_id=nicolej2122.nicolej2122) 
 
-Software Engineer @ Dell | NUS CS grad | Backend enthusiast who loves building with Go
+Field Engineer @ Canonical | NUS CS grad | Backend enthusiast who loves building with Go
 
 
 
